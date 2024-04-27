@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sandaldeep Choudhary, A passionate Full Stack Developer from India. My coding journey began with C and C++, sparking a fire within me to explore ever more languages. Python, JavaScript, HTML, CSS - I eagerly tackled them all, building a solid foundation for web development. This thirst for knowledge led me to an internship at Development Logics Dharamshala, where I not only sharpened my skills but also contributed to real-world projects. I recently built and released my first MERN project on Render. If you're looking for a dedicated learner with a thirst for technical exploration, I'm your coding companion!
+Hi 👋, I'm Sandaldeep Choudhary, A passionate Full Stack Developer from India. My coding journey began with C and C++, sparking a fire within me to explore even more languages. Python, JavaScript, HTML, CSS - I eagerly tackled them all, building a solid foundation for web development. This thirst for knowledge led me to an internship at Development Logics Dharamshala, where I not only sharpened my skills but also contributed to real-world projects. I recently built and released my first MERN project on Render. If you're looking for a dedicated learner with a thirst for technical exploration, I'm your coding companion!
 
 
 ## 🌐 Socials:
